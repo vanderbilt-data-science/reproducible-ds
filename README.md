@@ -3,9 +3,10 @@ A temporary space to simplify access to links for the Reproducible Data Science 
 
 Links from workshop:
 
-###10_data_load
+### 10_data_load
 
-NB Set config to NOT load data 
+*NB Set config to NOT load data*
+
 import code
 - haven: https://github.com/tidyverse/haven
 - vroom: https://github.com/r-lib/vroom
@@ -15,26 +16,26 @@ import code
 - joins, count row/columns, anti-joins: https://cran.r-project.org/web/packages/dplyr/vignettes/two-table.html
 - storing data: https://git-lfs.github.com/
 
-###20_data_exploration
+### 20_data_exploration
 
 - Hmisc: https://github.com/harrelfe/Hmisc
 - DataExplorer: https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html
 
-###30_feature_engineering
+### 30_feature_engineering
 
 - use assertions here as well
 
-###40_modeling
+### 40_modeling
 
 - tidymodels: https://github.com/tidymodels
 - large-scale modeling: https://www.h2o.ai/
 - versioning model fits: https://mlflow.org/
 
-###50_reporting
+### 50_reporting
 - knitting
 - post report in github 
 
-###Issues
+### Issues
 
 Close with commits, mention in notebooks
 
