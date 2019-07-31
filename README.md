@@ -44,5 +44,6 @@ import code
 Close with commits, mention in notebooks
 
 ## Further Resources
-https://ropensci.org/packages/
-https://www.tidyverse.org/
+
+- https://ropensci.org/packages/
+- https://www.tidyverse.org/
