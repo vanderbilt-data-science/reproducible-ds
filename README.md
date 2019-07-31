@@ -3,6 +3,10 @@ A temporary space to simplify access to links for the Reproducible Data Science 
 
 Links from workshop:
 
+### Setup
+
+HappyGitWithR: https://happygitwithr.com/
+
 ### 10_data_load
 
 *NB Set config to NOT load data*
