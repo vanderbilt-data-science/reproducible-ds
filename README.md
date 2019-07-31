@@ -21,13 +21,19 @@ HappyGitWithR: https://happygitwithr.com/
 
 *NB Set config to NOT load data*
 
-import code
+import data
 - haven: https://github.com/tidyverse/haven
 - vroom: https://github.com/r-lib/vroom
 - boxr/google drive/dropbox: https://github.com/r-box/boxr
+
+clean data
 - janitor: https://github.com/sfirke/janitor
-- assertr statements: https://github.com/ropensci/assertr
+
+test data
+- assertr statements: https://github.com/ropensci/assertr (for Python, https://github.com/great-expectations/great_expectations)
 - joins, count row/columns, anti-joins: https://cran.r-project.org/web/packages/dplyr/vignettes/two-table.html
+
+store data
 - storing data: https://git-lfs.github.com/
 
 ### 20_data_exploration
