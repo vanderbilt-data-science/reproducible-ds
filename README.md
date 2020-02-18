@@ -16,10 +16,13 @@ By combining multiple tools at your disposal, you can both make your work reprod
 ### Versioning Data
 
 ### Versioning Models
+- MLFlow: https://mlflow.org/
 
 ### "Versioning" Environments
-
-
+- Conda user guide on managing environments: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+- Binder: 
+    - docs: https://mybinder.readthedocs.io/en/latest/
+    - create Binder from repo: https://mybinder.org/ 
 
 ## For the Workshop
 
